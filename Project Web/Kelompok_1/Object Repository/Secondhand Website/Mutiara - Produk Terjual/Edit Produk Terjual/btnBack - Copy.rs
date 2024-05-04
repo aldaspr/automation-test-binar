@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnBack - Copy</name>
+   <tag></tag>
+   <elementGuidId>84e2968c-cd1e-4131-867a-c3a997c4893a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.position-absolute.top-0.start-0.translate-middle > button.btn.btn-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='history.back()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aad2aa9e-78dd-4aef-8081-2d0e7a729be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-link</value>
+      <webElementGuid>cdb3b56e-3459-410a-854b-bdcc1ae13194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>history.back()</value>
+      <webElementGuid>6808b786-4c65-4ab9-b936-8b6541433815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container container-sm position-relative&quot;]/div[@class=&quot;position-absolute top-0 start-0 translate-middle&quot;]/button[@class=&quot;btn btn-link&quot;]</value>
+      <webElementGuid>25c3b10d-79a3-40c4-bba4-932519a5be71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='history.back()']</value>
+      <webElementGuid>699513d0-57da-438d-97c7-bc4f0327cf02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jogja'])[1]/following::button[2]</value>
+      <webElementGuid>04cb8704-cdec-49a6-9b40-4c0227dc8da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Produk'])[1]/preceding::button[1]</value>
+      <webElementGuid>b73a3a62-e828-45e1-9087-5a5889bf91b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Produk'])[1]/preceding::button[1]</value>
+      <webElementGuid>c362c25f-7e06-46f1-803a-69ab0ddca922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/button</value>
+      <webElementGuid>e70800ba-3715-4692-8df0-73b14cf7c0b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

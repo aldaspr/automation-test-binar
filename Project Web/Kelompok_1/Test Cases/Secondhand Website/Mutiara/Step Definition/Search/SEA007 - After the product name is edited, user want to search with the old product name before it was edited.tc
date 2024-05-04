@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SEA007 - After the product name is edited, user want to search with the old product name before it was edited</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>970a1476-7a39-4377-8aed-5d5fb2467efd</testCaseGuid>
+</TestCaseEntity>

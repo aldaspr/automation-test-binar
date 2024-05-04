@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read Error Wrong Format Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99fbbd7f-e519-4d48-9240-d22fbb3fd197</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d3b049c-9214-415c-8fa9-90b7df73a0d3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>3d3b049c-9214-415c-8fa9-90b7df73a0d3</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

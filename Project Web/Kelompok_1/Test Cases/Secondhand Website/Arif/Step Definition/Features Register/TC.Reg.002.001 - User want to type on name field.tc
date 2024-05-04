@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Reg.002.001 - User want to type on name field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c047c75c-7bde-45b6-8de0-6b3e37bd78f0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69e681ea-3265-457a-8bc9-551e8cc0c163</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Agus Kopling'</defaultValue>
+      <description></description>
+      <id>69e681ea-3265-457a-8bc9-551e8cc0c163</id>
+      <masked>false</masked>
+      <name>localValue</name>
+   </variable>
+</TestCaseEntity>

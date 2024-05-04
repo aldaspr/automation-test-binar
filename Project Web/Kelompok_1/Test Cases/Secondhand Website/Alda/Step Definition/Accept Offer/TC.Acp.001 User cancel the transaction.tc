@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Acp.001 User cancel the transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a18a691-0953-445c-a990-0e963c96c0a4</testCaseGuid>
+</TestCaseEntity>

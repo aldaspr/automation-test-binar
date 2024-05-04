@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User want to login with empty email's field</description>
+   <name>TC.Lgn.001.008 - login with empty email field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>692ecb42-1c66-4dd7-bb8a-d4a84f3bc136</testCaseGuid>
+</TestCaseEntity>

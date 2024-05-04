@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Ofp.004 Product offer in login condition but has not completed the profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1c33445-0743-4852-97f9-ce57e5dac9f9</testCaseGuid>
+</TestCaseEntity>

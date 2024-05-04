@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PD009 - User want to edit a product without input description</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea0e410a-734b-442e-baf3-e1df5251416c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read Error Empty Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aee145b6-81c1-4b6e-aab6-b5ec78588aeb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc660b18-0558-4fab-9e60-f39ace09f308</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Please fill out this field.'</defaultValue>
+      <description></description>
+      <id>bc660b18-0558-4fab-9e60-f39ace09f308</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

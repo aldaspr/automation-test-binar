@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload product photo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>056285ca-1f51-4723-aa02-106ef1142ad8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b05b5a52-ecc4-40b4-b753-ad1eaa5b1d81</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b05b5a52-ecc4-40b4-b753-ad1eaa5b1d81</id>
+      <masked>false</masked>
+      <name>path</name>
+   </variable>
+</TestCaseEntity>

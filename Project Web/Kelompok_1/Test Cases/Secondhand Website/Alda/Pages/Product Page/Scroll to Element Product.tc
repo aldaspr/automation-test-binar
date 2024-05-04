@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Scroll to Element Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a95dca91-8ff1-4a59-ba6e-533943a41c3e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b1869820-71d1-4806-90e9-4450756f6925</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cici'</defaultValue>
+      <description></description>
+      <id>b1869820-71d1-4806-90e9-4450756f6925</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+</TestCaseEntity>

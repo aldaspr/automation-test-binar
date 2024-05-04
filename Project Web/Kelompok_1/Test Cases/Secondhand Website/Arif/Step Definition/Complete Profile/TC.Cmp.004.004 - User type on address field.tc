@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Cmp.004.004 - User type on address field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3218788b-30e1-43f2-a514-8985376cacd4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3fe1f3a7-4890-4813-8fc7-f0c73a0e164b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jl. Palagan Tentara, Daerah Istimewa Yogyakarta'</defaultValue>
+      <description></description>
+      <id>3fe1f3a7-4890-4813-8fc7-f0c73a0e164b</id>
+      <masked>false</masked>
+      <name>inputValue</name>
+   </variable>
+</TestCaseEntity>

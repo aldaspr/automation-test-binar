@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read Error Empty City</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccd1bb77-7f77-41ad-88ef-c43e0c0761c8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7c7a712-1b1c-43dd-b466-702ce6c68b65</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a7c7a712-1b1c-43dd-b466-702ce6c68b65</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

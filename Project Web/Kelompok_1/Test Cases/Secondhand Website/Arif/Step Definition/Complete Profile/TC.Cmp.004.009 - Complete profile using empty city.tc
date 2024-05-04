@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Cmp.004.009 - Complete profile using empty city</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>975db9e2-899b-4fb5-bc5a-b0dbe9fabd57</testCaseGuid>
+</TestCaseEntity>

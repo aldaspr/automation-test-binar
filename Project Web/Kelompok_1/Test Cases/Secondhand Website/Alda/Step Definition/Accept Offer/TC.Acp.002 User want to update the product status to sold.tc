@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Acp.002 User want to update the product status to sold</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d1ce0f7-ad15-4201-8e17-133ee18a6965</testCaseGuid>
+</TestCaseEntity>

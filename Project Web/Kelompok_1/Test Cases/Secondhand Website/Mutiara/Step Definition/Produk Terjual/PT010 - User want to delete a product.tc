@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PT010 - User want to delete a product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c44c581-4628-427c-a2a4-8f9a757e367d</testCaseGuid>
+</TestCaseEntity>

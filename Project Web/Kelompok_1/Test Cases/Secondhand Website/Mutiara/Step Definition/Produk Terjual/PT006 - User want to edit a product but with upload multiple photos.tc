@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PT006 - User want to edit a product but with upload multiple photos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aed8c471-7290-4d2d-acc6-3eedb4217c30</testCaseGuid>
+</TestCaseEntity>

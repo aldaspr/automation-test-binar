@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Cmp.004.001 - User type on name field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c800fd31-95bc-4019-be4c-04f9e34e4b5e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>390792df-4e02-4f9c-bc60-73ddbfaaa39e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Agus Kopling'</defaultValue>
+      <description></description>
+      <id>390792df-4e02-4f9c-bc60-73ddbfaaa39e</id>
+      <masked>false</masked>
+      <name>inputValue</name>
+   </variable>
+</TestCaseEntity>

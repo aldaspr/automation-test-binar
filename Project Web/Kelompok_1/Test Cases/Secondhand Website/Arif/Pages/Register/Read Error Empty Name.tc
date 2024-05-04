@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read Error Empty Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>096427c8-cfc4-48ff-ae07-6e49f3f5d2f2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84e95fe5-3931-4d13-8199-0518d90f8774</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Please fill out this field.'</defaultValue>
+      <description></description>
+      <id>84e95fe5-3931-4d13-8199-0518d90f8774</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

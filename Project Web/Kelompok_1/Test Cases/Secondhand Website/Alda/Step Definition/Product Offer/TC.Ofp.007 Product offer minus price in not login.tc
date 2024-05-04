@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Ofp.007 Product offer minus price in not login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3ce9da2-393d-46e0-8a07-ec7a4d896602</testCaseGuid>
+</TestCaseEntity>

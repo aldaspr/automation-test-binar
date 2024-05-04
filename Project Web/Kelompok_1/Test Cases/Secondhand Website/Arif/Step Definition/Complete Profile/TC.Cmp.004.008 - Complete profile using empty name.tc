@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Cmp.004.008 - Complete profile using empty name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca99228e-e3bb-4fac-a957-c8d7680568b1</testCaseGuid>
+</TestCaseEntity>

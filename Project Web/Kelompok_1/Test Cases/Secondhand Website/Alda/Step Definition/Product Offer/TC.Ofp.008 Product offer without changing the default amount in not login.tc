@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Ofp.008 Product offer without changing the default amount in not login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ae1d3be-9570-4578-9b16-5aed0ea78418</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>054a3842-a50d-414c-a272-883ba4518032</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'\r\n'</defaultValue>
+      <description></description>
+      <id>054a3842-a50d-414c-a272-883ba4518032</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+</TestCaseEntity>

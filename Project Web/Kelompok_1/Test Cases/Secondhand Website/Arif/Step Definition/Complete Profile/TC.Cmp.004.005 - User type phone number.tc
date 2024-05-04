@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Cmp.004.005 - User type phone number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eee874a8-bf3e-4f7a-978c-28076d0495fe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>99ead5d7-a469-494e-9219-3cfd52e8fb8b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'08967151621846'</defaultValue>
+      <description></description>
+      <id>99ead5d7-a469-494e-9219-3cfd52e8fb8b</id>
+      <masked>false</masked>
+      <name>inputValue</name>
+   </variable>
+</TestCaseEntity>

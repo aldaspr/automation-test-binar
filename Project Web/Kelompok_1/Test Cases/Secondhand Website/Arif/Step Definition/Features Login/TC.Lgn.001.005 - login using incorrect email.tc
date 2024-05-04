@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login using incorrect email and correct password</description>
+   <name>TC.Lgn.001.005 - login using incorrect email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9775e2f-2caf-4f21-84a0-c4d4ff68a6cd</testCaseGuid>
+</TestCaseEntity>

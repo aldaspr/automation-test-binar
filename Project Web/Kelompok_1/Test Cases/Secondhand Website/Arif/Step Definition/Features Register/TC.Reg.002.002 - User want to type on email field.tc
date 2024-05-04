@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Reg.002.002 - User want to type on email field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>167558f6-8c12-4a70-bf6a-57c1cfc0c519</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>204267b7-a63d-4849-bb75-2bf35c2da361</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>204267b7-a63d-4849-bb75-2bf35c2da361</id>
+      <masked>false</masked>
+      <name>localValue</name>
+   </variable>
+</TestCaseEntity>

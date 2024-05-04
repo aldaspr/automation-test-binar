@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'nasi padang'</initValue>
+      <name>G_ProductName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'nasi yang berasal dari padang'</initValue>
+      <name>G_ProductDesc</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>https://secondhand.binaracademy.org/products/100779</description>
+      <initValue>'jus alpukat'</initValue>
+      <name>G_DltdProduct</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>after: panci biru</description>
+      <initValue>'penggorengan putih'</initValue>
+      <name>G_BeforeEdit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>https://secondhand.binaracademy.org/products/100805</description>
+      <initValue>'bearbrand'</initValue>
+      <name>G_SoldProduct</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'buyer@katalontest.com'</initValue>
+      <name>G_Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>123</description>
+      <initValue>'tzH6RvlfSTg='</initValue>
+      <name>G_Pwd</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

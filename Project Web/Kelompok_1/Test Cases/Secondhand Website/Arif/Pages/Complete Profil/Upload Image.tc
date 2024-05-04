@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload Image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a21520f4-5d97-45fd-b175-7cb330c55425</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5048067-ddfb-4492-b3f3-4a5f5d99f052</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d5048067-ddfb-4492-b3f3-4a5f5d99f052</id>
+      <masked>false</masked>
+      <name>path</name>
+   </variable>
+</TestCaseEntity>

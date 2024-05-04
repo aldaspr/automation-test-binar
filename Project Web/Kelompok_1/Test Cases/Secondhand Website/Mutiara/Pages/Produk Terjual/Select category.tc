@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9c8ef67-3468-430c-8124-fbce15b11de7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c09ebe0-3dcc-4d03-ab79-041cf51bfa79</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>5c09ebe0-3dcc-4d03-ab79-041cf51bfa79</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

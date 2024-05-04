@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read Wrong Format Email Error Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a98d202f-1d9e-46c5-ab74-8b9a3dc67bd5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e375f5e9-a886-43f5-8e60-d056d7b87ce5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2c3fe8aa-aaff-4d93-8920-977b282e2b07</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e375f5e9-a886-43f5-8e60-d056d7b87ce5</id>
+      <masked>false</masked>
+      <name>errorMessage</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c3fe8aa-aaff-4d93-8920-977b282e2b07</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

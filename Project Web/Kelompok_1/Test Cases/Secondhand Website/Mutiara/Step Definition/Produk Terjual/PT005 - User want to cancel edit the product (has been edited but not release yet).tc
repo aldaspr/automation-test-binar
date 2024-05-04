@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PT005 - User want to cancel edit the product (has been edited but not release yet)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a325c2aa-656a-4511-a6a6-6c27404ea160</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Cmp.004.003 - User choose city</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d981d4f6-1d5e-47f7-af6b-66b6c6efac6c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f22a61bb-8537-4fa4-b72a-f8510169d03b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7acb92c0-18e1-4fae-8dc5-cbfd23a01abd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>f22a61bb-8537-4fa4-b72a-f8510169d03b</id>
+      <masked>false</masked>
+      <name>min</name>
+   </variable>
+   <variable>
+      <defaultValue>5</defaultValue>
+      <description></description>
+      <id>7acb92c0-18e1-4fae-8dc5-cbfd23a01abd</id>
+      <masked>false</masked>
+      <name>max</name>
+   </variable>
+</TestCaseEntity>

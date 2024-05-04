@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Reg.002.010 - Register using empty name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25dcfd54-bba3-4159-89ea-20969c1ada35</testCaseGuid>
+</TestCaseEntity>

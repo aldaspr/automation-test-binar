@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Reg.002.004 - Register with unregistered email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0c46322-b408-4454-8c6b-64437f23ef1e</testCaseGuid>
+</TestCaseEntity>

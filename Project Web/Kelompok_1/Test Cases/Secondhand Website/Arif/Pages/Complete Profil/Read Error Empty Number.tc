@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read Error Empty Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af13a866-f11a-49d3-9317-6fec8b8a108f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>779f5089-da2b-4b6b-ab46-5df877707272</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>779f5089-da2b-4b6b-ab46-5df877707272</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

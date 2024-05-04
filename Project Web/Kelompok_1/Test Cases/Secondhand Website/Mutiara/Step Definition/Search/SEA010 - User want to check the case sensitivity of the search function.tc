@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SEA010 - User want to check the case sensitivity of the search function</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf738a81-c996-4f17-8ef9-69472125a435</testCaseGuid>
+</TestCaseEntity>
